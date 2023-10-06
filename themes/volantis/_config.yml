@@ -158,14 +158,18 @@ cover:
       icon: #
       img: ./svg/storage.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
       url: https://one.sayafx.top/
-    - name: 精确搜索
+    - name: 备用下载
+      icon: #
+      img: ./svg/yun2.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
+      url: https://sayafx.sayafx.repl.co/
+    - name: 资源搜索
       icon: #
       img: ./svg/search3.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f396.svg
       url: https://sayafx.azurewebsites.net/
-    - name: 原生搜索
-      icon: #
-      img: ./svg/search4.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
-      url: https://yun.sayafx.top/
+    # - name: 原生搜索
+    #   icon: #
+    #   img: ./svg/search4.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
+    #   url: https://yun.sayafx.top/
     - name: 博客网站
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
